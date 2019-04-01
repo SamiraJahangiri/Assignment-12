@@ -1,2 +1,3 @@
 I opened R Studio, then went to File → New file → R Markdown.
 As a document I chose a title and left the rest as it is, and press the OK button.
+By writting down the code, and running the plot (ggplot2, or lattice), data.frame, or anyother analysis tools we will be able to control the output display or the figures size in our manuscripts.
